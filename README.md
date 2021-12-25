@@ -1,4 +1,4 @@
-# Health-Care-Duty-Roster-
+# Help recuired: Health-Care-Duty-Roster
  Time taking medics to create duty rosters takes huge amout of time that is not built in our job plan and distracts from patients care. 
  Also, having a fair roster, is one of the most important factors that helps having well functioning team. 
  I am not a programmer, but I am trying to having this task automated, using python, so I can focus on what I do best, which is looking after patient.  
